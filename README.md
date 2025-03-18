@@ -19,7 +19,7 @@ Barber-Booking-App is a React Native application that enables users to book barb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Barber-Booking-App.git
+   git clone https://github.com/Craftzman-Hamza/Barber-Booking-App.git
    cd Barber-Booking-App
    ```
 2. Install dependencies:
